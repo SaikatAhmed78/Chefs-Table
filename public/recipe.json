@@ -1,0 +1,93 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Spicy Chicken Stir-Fry",
+        "recipe_image": "https://i.ibb.co.com/9shSD8M/chicken-stir-fried-chili-along-with-bell-pepper-tomatoes-carrots-1150-27215-1.jpg",
+        "short_description": "A quick and healthy chicken stir fry with veggies and soy sauce.",
+        "ingredients": [
+            "500 g chicken breast",
+            "120 ml soy sauce",
+            "1 bell pepper",
+            "200 g broccoli",
+            "1 onion"
+        ],
+        "preparing_time": 25,
+        "calories": 350
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "Spaghetti Bolognese",
+        "recipe_image": "https://i.ibb.co.com/y6JZdj3/240-F-109759077-SVp62-TBu-Hk-Sn3-Us-GW4d-BOm9-R0-ALVet-Yw.jpg",
+        "short_description": "A classic Italian spaghetti with rich meat sauce.",
+        "ingredients": [
+            "200 g ground beef",
+            "400 g spaghetti",
+            "1 can tomato sauce",
+            "1 onion",
+            "2 cloves garlic"
+        ],
+        "preparing_time": 45,
+        "calories": 520
+    },
+    {
+        "recipe_id": 3,
+        "recipe_name": "Vegetable Curry",
+        "recipe_image": "https://i.ibb.co.com/gRRhffC/240-F-358173246-z1-So-Dlh-Efi-Ii-Z3ypx-KKNq7y-FBxcjb-Oo-R.jpg",
+        "short_description": "A spicy and flavorful vegetable curry with coconut milk.",
+        "ingredients": [
+            "1 potato",
+            "1 carrot",
+            "1 zucchini",
+            "400 ml coconut milk",
+            "100 g peas",
+            "2 tsp curry powder"
+        ],
+        "preparing_time": 30,
+        "calories": 280
+    },
+    {
+        "recipe_id": 4,
+        "recipe_name": "Beef Tacos",
+        "recipe_image": "https://i.ibb.co.com/WkybLvb/mexican-tacos-with-beef-tomato-sauce-salsa-2829-14270.jpg",
+        "short_description": "Crispy tacos filled with seasoned beef, cheese, and fresh veggies.",
+        "ingredients": [
+            "300 g ground beef",
+            "1 onion",
+            "8 taco shells",
+            "100 g shredded cheese",
+            "1 tomato",
+            "lettuce"
+        ],
+        "preparing_time": 20,
+        "calories": 400
+    },
+    {
+        "recipe_id": 5,
+        "recipe_name": "Classic Pancakes",
+        "recipe_image": "https://i.ibb.co.com/tXfrMFv/240-F-946688578-s-Mh-Jh-CKNy-Qvh2d-Mvd1-VM81a-TROIuzqma.jpg",
+        "short_description": "Fluffy and delicious pancakes perfect for breakfast.",
+        "ingredients": [
+            "200 g flour",
+            "250 ml milk",
+            "2 eggs",
+            "2 tbsp sugar",
+            "1 tsp baking powder"
+        ],
+        "preparing_time": 15,
+        "calories": 250
+    },
+    {
+        "recipe_id": 6,
+        "recipe_name": "Caesar Salad",
+        "recipe_image": "https://i.ibb.co.com/GMQfgrw/side-view-caesar-salad-with-chicken-parmesan-cheese-white-bowl-wooden-board-140725-11875.jpg",
+        "short_description": "A refreshing salad with romaine lettuce, parmesan, and Caesar dressing.",
+        "ingredients": [
+            "200 g romaine lettuce",
+            "50 g parmesan cheese",
+            "50 g croutons",
+            "3 tbsp Caesar dressing"
+        ],
+        "preparing_time": 10,
+        "calories": 150
+    }
+]
