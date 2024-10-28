@@ -9,7 +9,7 @@ const Header = () => {
   <div className="flex-1">
     <a className="btn btn-ghost text-xl">Recipe Calories</a>
 
-    <ul className="menu menu-horizontal w-full gap-2 px-2 flex justify-center text-lg">
+    <ul className="menu menu-horizontal w-full gap-2 px-2 md:flex justify-center text-lg hidden">
         <li>Home</li>
         <li>Recipes</li>
         <li>About</li>

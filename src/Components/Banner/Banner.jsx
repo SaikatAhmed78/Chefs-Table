@@ -6,8 +6,8 @@ const Banner = () => {
       <img src={image} alt="Banner" className="w-full h-full object-cover rounded-lg" />
 
       <div className="absolute inset-0 flex flex-col items-center justify-center text-white text-center px-4">
-        <h2 className="text-4xl font-bold mb-4">Discover an exceptional cooking class tailored for you!</h2>
-        <p className="text-lg mb-6 w-1/2">
+        <h2 className="md:text-4xl text-xl font-bold mb-4">Discover an exceptional cooking class tailored for you!</h2>
+        <p className="md:text-lg text-sm mb-6 w-1/2">
         Master the art of cooking with our exclusive classes! From basic recipes to advanced techniques, elevate your culinary skills and become a world-class chef.
         </p>
         <div className="flex space-x-4">
